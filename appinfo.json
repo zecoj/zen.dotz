@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ben Nguyen",
+    "longName": "Zen Dotz",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bluetooth.png",
+                "name": "IMAGE_BLUETOOTH",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[A-Z 0-9]",
+                "file": "fonts/Born2bSportyV2.ttf",
+                "name": "FONT_BTBS_16",
+                "type": "font"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Zen Dotz",
+    "uuid": "4a7a2a04-2582-4c13-871a-cf5465a5ff7a",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
